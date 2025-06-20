@@ -1,0 +1,5 @@
+## Brief Introduction About Myself
+
+Hello! My name is Essi Angel. I am currently learning about Git and GitHub as part of a beginner course. I enjoy working on real-life projects and gaining practical skills.
+
+I'm excited to build my version control skills and apply them in various areas including development, documentation, and collaboration. This is the start of my journey!
