@@ -1,0 +1,1 @@
+This course taught me about cloning, committing, and pushing to GitHub.
